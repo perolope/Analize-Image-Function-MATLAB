@@ -1,6 +1,6 @@
 # Analize-Image-Function-MATLAB
 Code developed for single molecule localization microscope in IBEC (Institut de Bioenginyeria de Catalunya).
-The repositori contains 4 documents, the PDF is the paper of my final degree project where I apply succesfully 
+The repository contains 4 documents, the PDF is the paper of my final degree project where I apply succesfully 
 this code to analyse data from single molecule microscope using an image of a low-res microscope as a mask.
 
 There are 3 MATLAB codes, the READCOORDS2 is a code developed by Pietro Delcanale (my supervisor) I made some little 
